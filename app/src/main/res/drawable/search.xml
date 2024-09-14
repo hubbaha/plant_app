@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/ic_search.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#000000"
+        android:pathData="M15.5,14h-0.79l-0.28,-0.27c1.18,-1.42 1.88,-3.26 1.88,-5.23C16.31,4.92 13.39,2 9.75,2 6.11,2 3.19,4.92 3.19,8.5c0,3.58 2.92,6.5 6.56,6.5 1.96,0 3.81,-0.71 5.23,-1.88l0.27,0.28v0.79l4.25,4.25c0.39,0.39 1.02,0.39 1.41,0s0.39,-1.02 0,-1.41l-4.25,-4.25zm-5.75,0C8.01,14 6.25,12.24 6.25,10.25S8.01,6.5 9.75,6.5 13.25,8.26 13.25,10.25 11.49,14 9.75,14z" />
+</vector>
